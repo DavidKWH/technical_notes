@@ -1,4 +1,4 @@
-# technical_notes
+# Technical notes
 
 ## Accumulating gradients 
 An explanation of accumulating gradient in pytorch. 
